@@ -30,7 +30,7 @@
 
 - **Advanced Test Automation Techniques**.
 - **AI-driven Test Automation** and exploratory testing tools.
-- **Mobile Automation Testing.
+- **Mobile Automation Testing**.
 
 
 
